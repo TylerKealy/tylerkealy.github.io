@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - 3D Slider | Pure CSS</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!-- 3D Slideshow Section --> 
+<section id="slideshow">
+			<div class="entire-content">
+				<div class="content-carrousel">
+					<figure class="shadow"><img src="../../img/slideshow/image1"/></figure>
+					<figure class="shadow"><img src="../../img/slideshow/image2"/></figure>
+					<figure class="shadow"><img src="../../img/slideshow/image3"/></figure>
+					<figure class="shadow"><img src="../../img/slideshow/image4"/></figure>
+					<figure class="shadow"><img src="../../img/slideshow/image5"/></figure>
+		</div>
+	</div>
+</section>
+<!-- partial -->
+  
+</body>
+</html>
